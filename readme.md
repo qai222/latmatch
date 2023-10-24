@@ -1,6 +1,6 @@
 ## Lattice Match for Organic Heteroepitaxy
 
-Supporting code for [Thin Film Organic Heteroepitaxy]().
+Supporting code for [Thin Film Organic Heteroepitaxy](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202302871).
 
 ### Dependencies
 - `python>=3.6`
